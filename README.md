@@ -86,4 +86,11 @@ Let me know if you’d like a version that:
 * Removes duplicates, or
 * Saves the output as `.csv`.
 
+* POC
+
+![POC Extract Email addresses789999999](https://github.com/user-attachments/assets/7ba2d342-7708-4f52-998a-54414a4b2877)
+
+
+
+
 Happy scripting! 💻
